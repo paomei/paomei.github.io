@@ -1,0 +1,18 @@
+title: "泡妹"
+url: "https://paomei.github.io"
+baseurl: "/"
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://cctranslate.github.io/"
+footer_text: "Page design by cc 翻译"
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+nav:
+  - name: "理论"
